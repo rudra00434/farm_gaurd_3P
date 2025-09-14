@@ -1,0 +1,22 @@
+# Development settings
+*.env
+*.db
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+htmlcov/
+venv/
+.venv/
+uploads/
+
+# Firebase credentials
+firebase-credentials.json
+
+# IDE settings
+.vscode/
+.idea/
+*.sublime-*
+
+# Logs
+*.log
