@@ -1,7 +1,6 @@
 # farm_gaurd_3P ( backend )
 
 ## file Structure :
-backend/
 ```
 backend/
 ├── .env.example            # Example environment variables
